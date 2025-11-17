@@ -1,4 +1,4 @@
-# Homework 05 – Caesar Cipher Script (Short Passive README)
+# Homework 05 – Caesar Cipher Script
 
 ## A. Constructing the source set (SET1)
 A source character set was created using the full English alphabet in both uppercase (`A–Z`) and lowercase (`a–z`).  
