@@ -1,5 +1,3 @@
-# Homework 04 – Disk Usage Script (Short Passive README)
-
 ## A. Command-line argument parsing
 The **getopts** utility was used to process the `-a` and `-n` options.
 
